@@ -26,3 +26,4 @@ tmp/*
 
 .idea/workspace.xml
 .idea/vcs.xml
+*.iml
